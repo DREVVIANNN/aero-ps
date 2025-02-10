@@ -119,6 +119,18 @@
   cursor: pointer;
 }
 
+.button3{
+  padding: 5px 10px;
+  margin: 0.5em 0;
+  background: seagreen;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
 .button2:hover{
   background: green;
   transition: 0.5s;
