@@ -188,4 +188,8 @@ for (let i = 0; i < navigationLinks.length; i++) {
   });
 }
 
+function fun(){
+  alert("Discord its not available!")
+}
+
 
