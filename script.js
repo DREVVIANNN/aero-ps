@@ -192,4 +192,8 @@ function fun(){
   alert("Discord its not available!")
 }
 
+function verified(){
+  alert("This user its verified!")
+}
+
 

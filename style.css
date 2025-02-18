@@ -107,6 +107,16 @@
   margin-left: 5px;
 }
 
+.ketupat{
+  position: left;
+  width: 100%;
+  border: #fff;
+}
+
+.ketupat2{
+  position: absolute;
+}
+
 .button2{
   padding: 5px 10px;
   margin: 0.5em 0;
