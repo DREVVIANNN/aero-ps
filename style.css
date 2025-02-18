@@ -115,6 +115,10 @@
 
 .ketupat2{
   position: absolute;
+  left: 300px;
+  border-radius: 10px;
+  width: 150px;
+  box-shadow: 0px 4px 20px #fff;
 }
 
 .button2{
@@ -268,10 +272,15 @@
     border-radius: 5px;
 }
 
+.aeroicon{
+  border-radius: 20px;
+}
+
 .copyfield3{
     align-items: center;
     user-select: none;
 }
+
 
 #link3{
 
